@@ -1,1 +1,1 @@
-# YandereSimulator
+# YeredanSimulator
